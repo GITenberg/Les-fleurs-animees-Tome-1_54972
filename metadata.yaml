@@ -1,0 +1,50 @@
+_repo: Les-fleurs-animees-Tome-1_54972
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Karr, Alphonse
+    alias: Karr, Jean-Alphonse
+    birthdate: 1808
+    deathdate: 1890
+    gutenberg_agent_id: '37873'
+    url: http://www.gutenberg.org/2009/agents/37873
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jean-Baptiste_Alphonse_Karr
+    - http://fr.wikipedia.org/wiki/Alphonse_Karr
+  - agent_name: Delord, Taxile
+    gutenberg_agent_id: '48134'
+    url: http://www.gutenberg.org/2009/agents/48134
+  - agent_name: Foelix, comte
+    gutenberg_agent_id: '48135'
+    url: http://www.gutenberg.org/2009/agents/48135
+  illustrator:
+    agent_name: Maubert, M.
+    gutenberg_agent_id: '48136'
+    url: http://www.gutenberg.org/2009/agents/48136
+creator:
+  author:
+    agent_name: Grandville, J. J.
+    aliases:
+    - Grandville, Jean Ignace Isidore Gerard, called
+    - Grandville, Jean Ignace Isidore Gérard, called
+    - Gérard, Jean Ignace Isidore
+    birthdate: 1803
+    deathdate: 1847
+    gutenberg_agent_id: '25811'
+    url: http://www.gutenberg.org/2009/agents/25811
+description: ''
+gutenberg_bookshelf:
+- FR Illustrateurs
+- FR Contes
+gutenberg_issued: '2017-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54972'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les fleurs animées - Tome 1
+url: http://www.gutenberg.org/ebooks/54972
