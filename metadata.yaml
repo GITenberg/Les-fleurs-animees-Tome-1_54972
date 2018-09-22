@@ -1,5 +1,5 @@
 _repo: Les-fleurs-animees-Tome-1_54972
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Karr, Alphonse
@@ -21,6 +21,9 @@ contributor:
     agent_name: Maubert, M.
     gutenberg_agent_id: '48136'
     url: http://www.gutenberg.org/2009/agents/48136
+covers:
+- cover_type: archival
+  image_path: 54972-h/images/cover.jpg
 creator:
   author:
     agent_name: Grandville, J. J.
@@ -33,6 +36,8 @@ creator:
     gutenberg_agent_id: '25811'
     url: http://www.gutenberg.org/2009/agents/25811
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54972#Les-fleurs-animees-Tome-1
 gutenberg_bookshelf:
 - FR Illustrateurs
 - FR Contes
